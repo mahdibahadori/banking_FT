@@ -25,10 +25,10 @@ https://github.com/mahdibahadori/banking_FT.git
 
 4. Run the app ```setup``` executable file:
 
-    ```banking_FT/bin/setup```
+    ```banking_FT/src/bin/setup```
 5. Go to text editor and find ```.bash_profile``` in your home directory and add the below line:
 
-    ``` export PATH="$PATH:$HOME/banking_FT/bin ```
+    ``` export PATH="$PATH:$HOME/banking_FT/src/bin ```
 6. Restart you terminal to make sure that ```.bash_profile``` loads the app into your PATH
 
 7. Run the app from your home directory by typing ```banking```
