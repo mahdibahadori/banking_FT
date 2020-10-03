@@ -1,9 +1,9 @@
-## Banking_App_FT
+## banking_FT
 
 ### About this app
 
-This app belongs to an imaginary bank and lets people interact with this bank via connecting to their accounts and make transactions. This app provides the basic features of opening new accounts and letting existing clients log in to their accounts. Basically, this app consists of a top level option list with two main directions: Opening an account, and log in. A new user can select the first option and upon entering his/her name (it does not matter how the user formats it) a 12 digit account number will be generated for the user accompanied by a message which prompts the user to keep a record of it for later log in actions. This user, then , is able to start making transactions. The second option is for returning customers with accounts. They need to provide their registered names following their account number to enter. Their details are assessed against a database and if verified, they will have the option to make transactions and view their previous transaction history. It aims at assisting people with joining this bank and giving them the chance of using designed features.
-I designed this app as per training project requirement and the reason I chose it is my interest in banking and the need to make banking easy for daily use where anyone can communicate with his/her bank in convenience from his/her computer. This app, in real, can be used for any financial organizations after adding more features and capabilities such as choosing that financial name and connecting to that organization's real database. Also this app can be improved by adding the options for loan request, choosing payment plan and so on. The audience of this app could be anyone willing to easily open bank account from home in a few clicks, transfer money between their accounts and deposit or withdraw from their accounts with a complete monitoring on their attempted transactions. It is simple to use and concise, and does not take users to click on several buttons to reach out the intended point.
+This is a simple app which performs new customer registration for new ban accounts and provides existing customers with log in option, as well as the options of making transactions and viewing previous transactions.
+
 
 ### features
 
@@ -14,21 +14,21 @@ I designed this app as per training project requirement and the reason I chose i
 **Transaction**: Either the new customers or existing customers can use this app to make transactions as deposit and withdraw. Also there is the possibility of viewing previous transactions as this option is included in the app. By the way, while making transactions, they can ask for their current account balance to make sure how much they are allowed to withdraw from their accounts. If a customer, by mistake, enters a negative value, a message pops up which warns the user that is not a valid amount and redirects him/her to enter a valid positive amount. If the user enters something which is not a number, the app takes him back to the option menu to kick off transaction again and whether if he/she wants to make deposit or withdraw or exit the app. All transactions are saved upon exiting the transaction phase.   
 
 ### Link
-https://github.com/mahdibahadori/Banking_App_FT.git
+https://github.com/mahdibahadori/banking_FT.git
 
 ### Installation
 1. Install Ruby on your machine, preferably use [asdf](https://asdf-vm.com/#/)
 2. Install [git](https://git-scm.com/downloads)
 3. ```git clone``` the app to your home directory by typing the below command in your terminal:
 
-    ```git clone https://github.com/mahdibahadori/Banking_App_FT.git```
+    ```git clone https://github.com/mahdibahadori/banking_FT.git```
 
 4. Run the app ```setup``` executable file:
 
-    ```Banking_App_FT/bin/setup```
-5. Go to text editor and find ```.bash_profile``` or ```.bashrc``` in your home directory and add the below line:
+    ```banking_FT/bin/setup```
+5. Go to text editor and find ```.bash_profile``` in your home directory and add the below line:
 
-    ``` export PATH="$PATH:$HOME/Banking_App_FT/bin ```
+    ``` export PATH="$PATH:$HOME/banking_FT/bin ```
 6. Restart you terminal to make sure that ```.bash_profile``` loads the app into your PATH
 
 7. Run the app from your home directory by typing ```banking```
@@ -37,7 +37,7 @@ https://github.com/mahdibahadori/Banking_App_FT.git
 I have used Trello to organise the banking app project steps and you can check that by viewing my [Trello board](https://trello.com/b/K7NlX18A/banking-terminal-app).
 
 ### Testing
-I carried out multiple tests around six features of my app and all passed the tests. You can see the results of the test by opening this link: [Banking_Terminal_App_FT_Tests](https://docs.google.com/spreadsheets/d/18hhJgRc3eao79PjJ_con4FCQwsYqbySQlibmsvY9MHk/edit?usp=sharing).
+I carried out multiple tests around six features of my app and all passed the tests. You can see the results of the test by opening this link: [banking_FT_Tests](https://docs.google.com/spreadsheets/d/18hhJgRc3eao79PjJ_con4FCQwsYqbySQlibmsvY9MHk/edit?usp=sharing).
 
 ### Error Handling
 Error handling was satisfied through using **control flow and conditional statements**, and **tty-prompt** which eliminated the likelihood of throwing error and stopping the app from running in case of receiving incorrect user input. Appropriate messaged displayed to user once he enters a wrong input to that specified field. Several features were tested against incorrect entries and all returned what they expected to do.
