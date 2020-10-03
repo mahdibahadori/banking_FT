@@ -1,0 +1,239 @@
+commit 9d9a3226d1a3b3604400d9874b2fda6073447a05
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Fri Oct 2 12:41:33 2020 +1000
+
+    database updated with new entry
+
+commit 22feb315878fa48406884e681b5d61783c8505da
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Fri Oct 2 12:41:01 2020 +1000
+
+    a message content modified
+
+commit 6a5affb6f8eb4f1522ab4f9725c4ca1b4f6325d6
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Thu Oct 1 18:23:06 2020 +1000
+
+    gitlog.txt updated
+
+commit 7cbac2568410c390fd3971cc3a03633e4f99dcbb
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Thu Oct 1 18:20:02 2020 +1000
+
+    database updated with new entries
+
+commit 6875167c6d78a4cba2c4a28bd029793566f7815c
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Thu Oct 1 00:33:50 2020 -0700
+
+    banking file is now executable
+
+commit e2d2e4fe1c3cc7a56157abfa03bf66e0931314e1
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Thu Oct 1 00:30:57 2020 -0700
+
+    gitlog.txt updated
+
+commit 6105fb8ce169a34bc92935b9241c3cf99922f397
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Thu Oct 1 00:30:04 2020 -0700
+
+    banking file turned to be executable
+
+commit 39f56f0c31b63257af085339696f4843c057ee92
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 21:28:10 2020 -0700
+
+    gitlog.txt updated
+
+commit bd7c9effc82f2423b23aac77e12ed57b3fd1d548
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 21:27:22 2020 -0700
+
+    database updated with new entry
+
+commit b4462a6683ff687a6f929fb33f955890cb42090b
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 21:26:37 2020 -0700
+
+    initialize method now receives an argument(name) from menu file. Attr_readers changed to name, account_number and date which returned back to menu file. Existing_customer method deleted as it is no longer required
+
+commit 2816db3699102752df45c67275405c35850304da
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 21:20:54 2020 -0700
+
+    accounts class changed to account module and accounts.rb renamed to account.rb. previous code replaced by modified code
+
+commit 7bb4fbb5d67a8eb096ab91c54bb3307af5277188
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 21:04:04 2020 -0700
+
+    gitlog.txt updated
+
+commit 76bda38fa55284fea4152259690ef131aee7a4de
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 21:03:19 2020 -0700
+
+    database updated with new entries
+
+commit 287f1656db9e3bcd785a144f3c13fa67fe998b31
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 21:02:19 2020 -0700
+
+    database file path modified in the transaction file
+
+commit 167e6739cbb977effadcb1157bc8612703f83162
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 20:14:39 2020 -0700
+
+    gitlog.txt modified
+
+commit 4091dce53b14af93ffb512a5cfcdd59d457cc5a3
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 20:11:08 2020 -0700
+
+    the whole file code updated and method names changed
+
+commit 8347d0c52074de31e04514ee52e5127bf9a58501
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 20:08:24 2020 -0700
+
+     test codes deleted from the file
+
+commit f7bce613757c5358c6b5be9660da1688fbe037f3
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 05:41:49 2020 -0700
+
+    gitlog.txt file updated
+
+commit 4d2ec23f720fb2ea48b3412a7f45023afc6f9565
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 05:41:06 2020 -0700
+
+    database file entries changed
+
+commit 66db807b4019e2f5c55b8e9bab10a5816b0cd755
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 05:40:07 2020 -0700
+
+    run.rb filr deleted from bin folder as its tasks are handled by banking file
+
+commit 821ef965e0428ad85e099e9fadff14afe4ce5414
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 05:38:36 2020 -0700
+
+    menu class changed to menu module. The path to the database file updated. New code added to the file and old code removed
+
+commit 2dad2a4684fbcd865041d9e3ff9daca6c2891478
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 05:35:24 2020 -0700
+
+    gem requirements added. As the menu has changed from class to module, the way of navigating to the menu file has been updated in the banking file
+
+commit 0cf175601df85b3991315d7bca00c64e10e59c5d
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 04:58:20 2020 -0700
+
+    gitlog.txt updated
+
+commit b657a0d7392ece2c14b11308df085e45c9d34320
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 04:57:13 2020 -0700
+
+    public folder created to accommodate database file
+
+commit 7212dbba51f0113f862e892c963b6d8d2b076963
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 04:56:25 2020 -0700
+
+    banking folder created inside bin executable  folder
+
+commit 1c76d56ead8e368effaa16376178f885ae4a9347
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 04:54:37 2020 -0700
+
+    As the name of files changed, required files in the transaction.rb file also updated
+
+commit 81dea44f79629a0440fe0f8656ebcf4bd4a9321c
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 04:52:54 2020 -0700
+
+    As the name of files changed,their names have been updated in the run.rb file. The referenced module method call was also updated
+
+commit e7d15ad2c7b776144f3fbc736038a0f10252123c
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 04:50:04 2020 -0700
+
+    password.rb deleted from the project
+
+commit 644a201f9af6284fa4959ba243a9e4db2c8e54d8
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 04:49:02 2020 -0700
+
+    password requirement removed from the menu.rb as it is no longer required. The database file path has been updated as the database fie has been moved to another folder
+
+commit aa0c6f028a90936ebbbf6ec9ac9152cccf2f1492
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 04:45:57 2020 -0700
+
+    password requirement removed from the customer.rb file as it is no longer required in the app
+
+commit aaaae0463ee4efe3e5bea4d1639b0b93e169e9d6
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 04:44:02 2020 -0700
+
+    database.json transferred to the public folder and removed from lib folder
+
+commit dfc118db804a4db9ac4fbe90dfb0e7af931d7f57
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 04:42:28 2020 -0700
+
+    Gemfile.lock generated
+
+commit 7258846661239bd195a4fb08364ad558e66860f6
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 04:41:11 2020 -0700
+
+    setup file created
+
+commit 28be1381d4df6193034cf59dc004dcd98a979682
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 04:39:27 2020 -0700
+
+    required gems installed
+
+commit 12994ef2fe7da6897edc8494adc0c6e22ef7e223
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 01:41:20 2020 -0700
+
+    gitlog.txt updated
+
+commit b7265bb6ab07f0d3020c6bfb523703b239346c85
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Wed Sep 30 01:39:15 2020 -0700
+
+    bin folder created and gitlog.txt updated
+
+commit c0cb1922dde097077d818fd99fcbb508d390be5e
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Fri Sep 25 06:50:13 2020 -0700
+
+    nothing changed in custome.rbfile
+
+commit ca6ee1d7090a9183d327ebcb1d461055218c8f55
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Fri Sep 25 06:38:18 2020 -0700
+
+    some data added to the json file to test out the functionality
+
+commit 67e1a74ed79d9f5db4b0ac0765600180e56347b6
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Fri Sep 25 06:30:26 2020 -0700
+
+    require_relative transaction deleted from menu.rb. rubocop was added to Gemfile
+
+commit 018a16e447772149f3736a455f30c4600786c36b
+Author: Mahdi Bahadori <m.bahadori1976@gmail.com>
+Date:   Fri Sep 25 06:05:54 2020 -0700
+
+    project fies created. agemfile created and it now contains gem colorize.database was created and some random inputs included to test the file

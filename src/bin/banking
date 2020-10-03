@@ -1,0 +1,16 @@
+#!/usr/bin/env ruby
+
+
+require "colorize"
+require "terminal-table"
+require "tty-prompt"
+
+
+require_relative "../lib/menu"
+require_relative "../lib/customer"
+require_relative "../lib/account"
+require_relative "../lib/transaction" 
+
+
+Menu.welcome_message
+    
