@@ -2,7 +2,7 @@
 
 ### About this app
 
-This is a simple app which performs new customer registration for new ban accounts and provides existing customers with log in option, as well as the options of making transactions and viewing previous transactions.
+This is a simple app which performs new customer registration for new bank accounts and provides existing customers with the log in option, as well as the options for making transactions and viewing previous transactions.
 
 
 ### features
